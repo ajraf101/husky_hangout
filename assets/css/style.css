@@ -14,26 +14,78 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #3a3a3a;
+    color: #fff7e0;
     font-family: "Red Hat Display", sans-serif;
 }
 
-h1, {
-    font-family: "dosis", sans-serif;
-}
 /* Header */
 header {
-    background-color: palevioletred;
+    background-color: #d6884e;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #858585;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    font-family: "dosis", sans-serif;
+    letter-spacing: 4px;
+    color: #fff7e0;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #fff7e0;
+}
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #d6884e;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #4b381d;
+    display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main content */
 main {
-    background-color: lightyellow;
+    background-color: #fefff6;
     /* Places footer at the bottom by having the main take up any leftover space */
     flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
-    background-color: palegreen;
+    background-color: #d7f3ff;
 }
