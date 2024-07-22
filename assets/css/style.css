@@ -161,6 +161,17 @@ iframe {
     max-width: 300px;
 }
 
+/* This section below styles the links for the email and phone number, it also highlights these details when hovered over */
+#info a {
+    color: #4b381d;
+    text-decoration: none;
+}
+
+#info a:hover {
+    text-decoration: underline;
+    color: #88755a;
+}
+
 /* sign up page */
 
 #signup {
@@ -171,7 +182,8 @@ iframe {
     flex-grow: 1;
     position: relative;
 }
-#signup-form{
+
+#signup-form {
     color: #fff7e0;
     background-color: #8b7a63cc;
     padding: 50px;
@@ -220,15 +232,8 @@ footer {
     color: #fff7e0;
 }
 
-/* This section below styles the links for the email and phone number, it also highlights these details when hovered over */
-#info a {
+#social-networks a:hover i {
     color: #4b381d;
-    text-decoration: none;
-}
-
-#info a:hover {
-    text-decoration: underline;
-    color: #88755a;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -284,7 +289,7 @@ footer {
     #signup {
         background-position: center;
     }
-   
+
 
 
 }
