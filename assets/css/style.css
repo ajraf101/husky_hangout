@@ -18,9 +18,15 @@ body {
     font-family: "Red Hat Display", sans-serif;
 }
 
+h1,
+h2 {
+    font-family: "dosis", sans-serif;
+    letter-spacing: 2px;
+}
+
 /* Header */
 header {
-    background-color:  #9aacaf;
+    background-color: #9aacaf;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -34,12 +40,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: "dosis", sans-serif;
-    letter-spacing: 4px;
-    color: #fff7e0;
 }
 
 #menu {
@@ -89,14 +89,24 @@ main {
     margin-top: 20px;
 }
 
-#hero{
+#hero {
     height: 600px;
     width: 100%;
     background: url("../images/hero1.jpg") no-repeat center center/cover;
+    position: relative;
 }
+
+#cover-text {
+    background-color: #8b7a63cc;
+    position: absolute;
+    width: 80%;
+    bottom: 50px;
+    padding: 30px;
+}
+
 /* Footer */
 footer {
-    background-color:  #cfc0ad;
+    background-color: #cfc0ad;
 }
 
 #social-networks {
@@ -148,11 +158,22 @@ footer {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+
+    #cover-text {
+        width: 50%;
+    }
 }
 
-/* Large devices (laptops and desktops, 992px and up) */
+/* Large devices (laptops and desktops 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         color: #3a3a3a;
+    }
+}
+
+/* Large devices (extra large, 1201px and up) */
+@media screen and (min-width: 1201px) {
+    #cover-text {
+        width: 35%;
     }
 }
