@@ -13,7 +13,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
     color: #fff7e0;
     font-family: "Red Hat Display", sans-serif;
 }
@@ -104,6 +103,27 @@ main {
     padding: 30px;
 }
 
+#introduction {
+    color: #4b381d;
+    padding: 20px 20px 0;
+    display: grid;
+    place-items: center;
+}
+
+#introduction h2 {
+    font-size: 200%;
+    padding: 20px 0;
+}
+
+#introduction div {
+    max-width: 300px;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #cfc0ad;
@@ -121,6 +141,39 @@ footer {
     font-size: 160%;
     padding: 5%;
     color: #fff7e0;
+}
+
+#about_us {
+    color: #4b381d;
+    padding: 40px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#location {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+iframe {
+    width: 100%;
+    max-height: 450px;
+    border: none;
+    padding-top: 5px;
+}
+
+#address, #opening_hours {
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px;
+}
+
+#day_times {
+    display: flex;
+    justify-content: space-between;
+    max-width: 300px;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -162,12 +215,26 @@ footer {
     #cover-text {
         width: 50%;
     }
+
+    #introduction {
+        /* Creates two columns for the layout*/
+        grid-template-columns: 1fr 1fr;
+    }
+
+    #introduction h2 {
+        font-size: 300%;
+    }
+
 }
 
 /* Large devices (laptops and desktops 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         color: #3a3a3a;
+    }
+
+    #introduction div {
+        max-width: 450px;
     }
 }
 
