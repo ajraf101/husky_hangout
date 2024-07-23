@@ -127,6 +127,27 @@ img {
     width: 100%;
 }
 
+#video {
+    text-align: center;
+    padding: 20px;
+}
+
+#video h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #4b381d;
+}
+
+#video p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: #4b381d;
+}
+
+video {
+    width: 90%;
+}
+
 /* Find us page */
 #find_us {
     color: #4b381d;
@@ -285,6 +306,10 @@ footer {
         font-size: 300%;
     }
 
+    video {
+        width: 75%;
+    }
+
     /* Sign up page */
     #signup {
         background-position: center;
@@ -303,6 +328,10 @@ footer {
     #introduction div {
         max-width: 450px;
     }
+}
+
+video {
+    width: 60%;
 }
 
 /* Large devices (extra large, 1201px and up) */
