@@ -130,6 +130,7 @@ img {
 #video {
     text-align: center;
     padding: 20px;
+    padding-bottom: 100px;
 }
 
 #video h2 {
@@ -145,7 +146,7 @@ img {
 }
 
 video {
-    width: 90%;
+    min-width: 300px;
 }
 
 /* Find us page */
@@ -308,6 +309,21 @@ footer {
 
     video {
         width: 75%;
+    }
+
+    /* find us page */
+
+    #find_us_inner {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    .find_us_divs {
+        width: 48%;
     }
 
     /* Sign up page */
