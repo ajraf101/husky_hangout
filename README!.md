@@ -10,6 +10,19 @@ This website has been created to a a solution to an issue that we see in our dog
 ## Project Idea 0
 Bring your own idea(s) to life, based on providing value to users to address a specific real or imagined need. Use the relevant project assessment criteria as a guide to the minimum required functionality
 
+# Features
+## Existing features
+### Navigation bar
+### The Landing page image
+### What we're about section
+### Video section
+### The footer
+### Find us page
+### Google map with api
+### Sign up page
+### Custom thank you page
+### Custom 404 page
+## Features left to implement
 
 
 # Testing
@@ -28,9 +41,19 @@ CSS:
 The CSS code was validated using the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/), which also reported no errors.
 
 
+## Unfixed bugs
+
+## Deployment
+
+## Credits
+
+## Other general project advise
 
 
 
+
+
+# DELETE BELOW THIS LINE BEFORE SUBMISSION
 
 I cropped the hero image as the original was in portrait. When it comes to mobile this would have worked fine but thinking of the browser width that would later come on a computer I decided to have the prepared. I chose this image for its colours and designed the rest of the site with these colours in mind as to keep a consistant theme throughout. 
 As it turns out testing of the first image proved that it would not fit neatly across all platforms. As a result a new image was chosen. Sadly this wasted some time as the site until this point had been working towards this colour scheme. Luckily though there were not to many changes to make and a more suitable image was discovered.
