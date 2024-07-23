@@ -235,6 +235,16 @@ iframe {
     font-family: "Red Hat Display", sans-serif;
 }
 
+/* thank you page */
+#thanks {
+    padding: 60px 30%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 150%;
+    color: #4b381d;
+}
+
 /* Footer */
 footer {
     background-color: #cfc0ad;
@@ -352,6 +362,9 @@ video {
 
 /* Large devices (extra large, 1201px and up) */
 @media screen and (min-width: 1201px) {
+    body{
+        font-size: 140%;
+    }
     #cover-text {
         width: 35%;
     }

@@ -7,3 +7,7 @@ As it turns out testing of the first image proved that it would not fit neatly a
 
 
 **I should add in some sort of hero image effect like the one in boulder dash where the image slides into place**
+
+**Make sure to pass the pages through the validaters**
+
+**Insert screenshots of the finished project in the README**
