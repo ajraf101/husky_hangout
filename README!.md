@@ -4,7 +4,7 @@ URL: https://ajraf101.github.io/husky_hangout
 
 Welcome to my website.
 This website has been created to a a solution to an issue that we see in our dog community. The site introduces a location develped for the husky breed, to support their trainng and help them integrate with other dogs.
-![image](assets/screenshots/ami?.png)
+![image](assets/screenshots/ami.png)
 
 ## Project Idea 0
 Bring your own idea(s) to life, based on providing value to users to address a specific real or imagined need. Use the relevant project assessment criteria as a guide to the minimum required functionality
