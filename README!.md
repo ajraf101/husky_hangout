@@ -8,10 +8,6 @@ Husky Hangout is dedicated to solving a common challenge faced by husky owners: 
 Husky Hangout targets husky owners who seek effective ways to channel their pet's energy constructively. Our mission is to help owners and their huskies lead fulfilling lives together through expert training, engaging activities, and ample space for exercise. Join Husky Hangout and discover the ultimate solution for all your husky's needs, ensuring a harmonious and happy relationship for both you and your furry friend.
 ![image](assets/screenshots/ami.png)
 
-# The Brief
-## Project Idea 0
-Bring your own idea(s) to life, based on providing value to users to address a specific real or imagined need. Use the relevant project assessment criteria as a guide to the minimum required functionality
-
 # Features
 ## Existing features
 ### Navigation bar
