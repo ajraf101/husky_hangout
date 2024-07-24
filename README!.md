@@ -15,7 +15,7 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   - The Husky Hangout website features a streamlined navigation bar at the top, designed for ease of use on all devices. This bar includes links to the Logo, Home page, Find Us, and Sign Up page, and is consistent across the site to facilitate straightforward navigation. 
   - Users can effortlessly move between sections, ensuring a smooth and intuitive browsing experience.
 
-![Nav Bar](screenshots/nav-bar.png)
+![Nav Bar](assets/screenshots/nav-bar.png)
 
 ### The Landing page image
 ### What we're about section
