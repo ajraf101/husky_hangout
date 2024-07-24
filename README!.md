@@ -26,7 +26,7 @@ Bring your own idea(s) to life, based on providing value to users to address a s
 
 
 # Testing
-Throughout the development of this website, regular testing was a priority. Each modification was promptly verified using the Gitpod external server, ensuring the website remained up-to-date and functional. Testing was conducted on a variety of devices, including a 13" MacBook Pro, an iPad Air 2, and an iPhone XS, to guarantee compatibility. Several browsers, such as Chrome, Safari, and Firefox, were utilized during these testing phases.
+Throughout the development of this website, regular testing was a priority. Each modification was promptly verified using the Gitpod external server, ensuring the website remained up-to-date and functional. Testing was conducted on a variety of devices, including a 13" MacBook Pro, an iPad Air 2, and an iPhone 12 pro, to guarantee compatibility. Several browsers, such as Chrome, Safari, and Firefox, were utilized during these testing phases.
 
 Interactive elements underwent rigorous testing across all devices to confirm their functionality on different platforms. For instance, the main logo was tested to ensure it reloaded the index.html page correctly, and each navigation bar button was checked to ensure it directed users to the appropriate sections of the site.
 

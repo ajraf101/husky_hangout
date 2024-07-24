@@ -155,7 +155,6 @@ video {
     padding: 40px 50px;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 #location {
