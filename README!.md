@@ -14,10 +14,18 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
 - Navigation bar. 
   - The Husky Hangout website features a streamlined navigation bar at the top, designed for ease of use on all devices. This bar includes links to the Logo, Home page, Find Us, and Sign Up page, and is consistent across the site to facilitate straightforward navigation. 
   - Users can effortlessly move between sections, ensuring a smooth and intuitive browsing experience.
+  - For the mobile version, the navigation bar features a dropdown menu. This design reduces clutter while maintaining ease of navigation.
 
 ![Nav Bar](assets/screenshots/nav-bar.png)
+![Nav Bar](assets/screenshots/nav-bar-mobile.png)
 
 ### The Landing page image
+- __The Hero image__
+
+  - Below the navigation bar, the site displays a prominent image of a person embracing their husky. The text overlay reveals the site’s name and features a slogan.
+  - The selected image boasts an appealing color palette. These colors were extracted from the image to design the rest of the website, ensuring a cohesive visual experience from the initial view to the final sign-up stage.
+
+![Hero Image](docs/screenshots/hero-image.png)
 ### What we're about section
 ### Video section
 ### The footer
