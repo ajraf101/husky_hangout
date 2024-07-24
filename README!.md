@@ -1,5 +1,5 @@
 # Husky Hangout
-Website author: Andrew Farrell
+Website author: Andrew Farrell.  
 URL: https://ajraf101.github.io/husky_hangout
 
 Welcome to my website.
