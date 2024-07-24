@@ -325,6 +325,7 @@ footer {
     #find_us {
         align-items: center;
     }
+
     #find_us_inner {
         display: flex;
         flex-direction: row;
@@ -332,7 +333,7 @@ footer {
         justify-content: space-between;
         width: 100%;
         max-width: 800px;
-        
+
     }
 
     .find_us_divs {
@@ -365,9 +366,10 @@ video {
 
 /* Large devices (extra large, 1201px and up) */
 @media screen and (min-width: 1201px) {
-    body{
+    body {
         font-size: 140%;
     }
+
     #cover-text {
         width: 35%;
     }

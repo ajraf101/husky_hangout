@@ -49,7 +49,9 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   - The footer includes links to the club's social media pages, which open in a new tab, offering additional ways to contact the club and its members.
   
 ![Footer](assets/screenshots/footer.png)
-### Find us page
+- Find us page
+
+![Find us page](assets/screenshots/find-us-page.png)
 ### Google map with api
 ### Sign up page
 ### Custom thank you page
