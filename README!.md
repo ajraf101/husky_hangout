@@ -2,8 +2,10 @@
 Website author: Andrew Farrell.  
 URL: https://ajraf101.github.io/husky_hangout
 
-Welcome to my website.
-This website has been created to a a solution to an issue that we see in our dog community. The site introduces a location develped for the husky breed, to support their trainng and help them integrate with other dogs.
+Welcome to Husky Hangout!  
+Husky Hangout is dedicated to solving a common challenge faced by husky owners: managing the breed's incredible energy while promoting their socialization and training. Our unique platform introduces a specially designed space that caters exclusively to huskies, offering top-notch training programs and opportunities for social interaction with other dogs.
+
+Husky Hangout targets husky owners who seek effective ways to channel their pet's energy constructively. Our mission is to help owners and their huskies lead fulfilling lives together through expert training, engaging activities, and ample space for exercise. Join Husky Hangout and discover the ultimate solution for all your husky's needs, ensuring a harmonious and happy relationship for both you and your furry friend.
 ![image](assets/screenshots/ami.png)
 
 # The Brief
