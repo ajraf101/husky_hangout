@@ -17,17 +17,33 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   - For the mobile version, the navigation bar features a dropdown menu. This design reduces clutter while maintaining ease of navigation.
 
 ![Nav Bar](assets/screenshots/nav-bar.png)
-![Nav Bar](assets/screenshots/nav-bar-mobile.png)
+![Nav Bar Mobile ](assets/screenshots/nav-bar-mobile.png)
 
-### The Landing page image
 - __The Hero image__
 
   - Below the navigation bar, the site displays a prominent image of a person embracing their husky. The text overlay reveals the site’s name and features a slogan.
   - The selected image boasts an appealing color palette. These colors were extracted from the image to design the rest of the website, ensuring a cohesive visual experience from the initial view to the final sign-up stage.
+  - The image has been carefully selected to ensure it works well on a responsive site, particularly for mobile devices.
 
-![Hero Image](docs/screenshots/hero-image.png)
-### What we're about section
-### Video section
+![Hero Image](assets/screenshots/hero-image.png). 
+
+![Hero Image Mobile](assets/screenshots/hero-image-mobile.png)
+
+
+- What we're about section
+  - With a minimalistic design blending imagery and text, this section promptly communicates the site's purpose and conveys the company's ethos to the user.
+  - The second half delves deeper into what’s available at the Husky Hangout Center, following the initial brief introduction. This additional information is relevant because it provides users with a clearer understanding of the center's offerings and atmosphere.
+  - The images depict huskies happily interacting with each other, while another image shows owners enjoying the space alongside their pets, highlighting the center's welcoming and community-focused environment.
+
+![what we're about first half](assets/screenshots/what-section-1.png). 
+
+![what we're about second half](assets/screenshots/what-section-2.png)
+
+- Video section
+  - As if the first section wasn't enough, a video is displayed to help the user see the benefits of the center for both them and their husky.
+  - The caption "Still not convinced?" is provocative, encouraging the user to get involved by showcasing real-life interactions and positive experiences at the center
+
+  ![Video](assets/screenshots/video-section.png)
 ### The footer
 ### Find us page
 ### Google map with api
