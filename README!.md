@@ -44,7 +44,11 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   - The caption "Still not convinced?" is provocative, encouraging the user to get involved by showcasing real-life interactions and positive experiences at the center
 
   ![Video](assets/screenshots/video-section.png)
-### The footer
+
+- The footer
+  - The footer includes links to the club's social media pages, which open in a new tab, offering additional ways to contact the club and its members.
+  
+![Footer](assets/screenshots/footer.png)
 ### Find us page
 ### Google map with api
 ### Sign up page

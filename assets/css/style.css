@@ -322,6 +322,9 @@ footer {
 
     /* find us page */
 
+    #find_us {
+        align-items: center;
+    }
     #find_us_inner {
         display: flex;
         flex-direction: row;
@@ -329,6 +332,7 @@ footer {
         justify-content: space-between;
         width: 100%;
         max-width: 800px;
+        
     }
 
     .find_us_divs {
