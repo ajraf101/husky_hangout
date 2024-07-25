@@ -50,16 +50,17 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   
 ![Footer](assets/screenshots/footer.png)
 - Find us page
+  - This page provides all the necessary information for users who want to engage further with the company, including the address, pricing, opening hours, and contact details.
+  - A notable feature of this page is the interactive Google Maps location. Users can open the map in a separate tab, thanks to a custom API setup specifically for this site.
 
 ![Find us page](assets/screenshots/find-us-page.png)
-### Google map with api
 ### Sign up page
 ### Custom thank you page
 ### Custom 404 page
 ## Features left to implement
 
 
-# Testing
+- Testing
 Throughout the development of this website, regular testing was a priority. Each modification was promptly verified using the Gitpod external server, ensuring the website remained up-to-date and functional. Testing was conducted on a variety of devices, including a 13" MacBook Pro, an iPad Air 2, and an iPhone 12 pro, to guarantee compatibility. Several browsers, such as Chrome, Safari, and Firefox, were utilized during these testing phases.
 
 Interactive elements underwent rigorous testing across all devices to confirm their functionality on different platforms. For instance, the main logo was tested to ensure it reloaded the index.html page correctly, and each navigation bar button was checked to ensure it directed users to the appropriate sections of the site.
@@ -68,11 +69,13 @@ The video component was also thoroughly tested on each device, with all controls
 
 Further testing was conducted by external users. A link to the website was distributed to a list of users who tested it on their own devices. Feedback from these users indicated that the website functioned without any issues.
 
-# Validator Testing
-HTML: The official [W3C validator](https://validator.w3.org/) was used to check the HTML code, and no errors were detected.
+- Validator Testing
+  - HTML: The official [W3C validator](https://validator.w3.org/) was used to check the HTML code, and no errors were detected.
+  - CSS:The CSS code was validated using the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/), which also reported no errors.
+  - There was consideration placing the CSS certificate at the bottom of the site, but decided against it as it deteracted from the minimalist style of the page.
+![CSS Certificate](assets/screenshots/cert.png)
 
-CSS:
-The CSS code was validated using the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/), which also reported no errors.
+
 
 
 ## Unfixed bugs
