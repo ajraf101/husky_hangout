@@ -25,7 +25,7 @@ h2 {
 
 /* Header */
 header {
-    background-color: #9aacaf;
+    background-color: #708090;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -52,10 +52,6 @@ header a {
     margin-bottom: 1em;
 }
 
-#menu li a:not(.active) {
-    text-shadow: 2px 1px #353535;
-}
-
 #menu a:hover {
     color: #353535
 }
@@ -67,7 +63,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #9aacaf;
+    background-color: #708090;
     width: 100%;
     left: 0;
     padding: 0.5rem 1rem;
