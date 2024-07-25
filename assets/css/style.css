@@ -1,5 +1,5 @@
 /* this is the font imported from google fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Red+Hat+Display:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Red+Hat+Display:wght@300&family=Red+Hat+Text:ital@0;1&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -45,6 +45,7 @@ header a {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
+    font-family: "Red Hat Text", sans-serif;
 }
 
 #menu>li {
@@ -84,7 +85,7 @@ nav {
     font-size: 2rem;
 }
 
-/* A standard widely used for hiding content off screen but allows for accessability label*/
+/* A standard widely used for hiding content off screen but allows for accessability label */
 #hidden {
     position: absolute;
     width: 1px;
