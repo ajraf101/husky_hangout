@@ -52,6 +52,10 @@ header a {
     margin-bottom: 1em;
 }
 
+#menu li a:not(.active) {
+    text-shadow: 2px 1px #353535;
+}
+
 #menu a:hover {
     color: #353535
 }
