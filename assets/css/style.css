@@ -84,6 +84,18 @@ nav {
     font-size: 2rem;
 }
 
+/* A standard widely used for hiding content off screen but allows for accessability label*/
+#hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
 /* Main content */
 main {
     /* Places footer at the bottom by having the main take up any leftover space */
@@ -262,6 +274,7 @@ iframe {
     flex-direction: column;
     text-align: center;
 }
+
 /* Footer */
 footer {
     background-color: #cfc0ad;
