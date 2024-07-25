@@ -54,8 +54,15 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   - A notable feature of this page is the interactive Google Maps location. Users can open the map in a separate tab, thanks to a custom API setup specifically for this site.
 
 ![Find us page](assets/screenshots/find-us-page.png)
-### Sign up page
-### Custom thank you page
+- Sign up page
+
+  - Maintaining a minimal style, the sign-up page features a clear, easy-to-follow layout that is responsive to all screen sizes.
+  - This page is intentionally placed last to guide the user through the site, ensuring they have read all about what the site offers before reaching the sign-up stage.
+![Find us page](assets/screenshots/signup.png)
+- Custom thank you page
+  - After completing the sign-up process, the user is directed to a custom thank you page that encourages further engagement through social media.
+  
+
 ### Custom 404 page
 ## Features left to implement
 

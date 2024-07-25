@@ -236,7 +236,7 @@ iframe {
 
 /* thank you page */
 #thanks {
-    padding: 60px 30%;
+    padding: 60px 10%;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -345,8 +345,9 @@ footer {
         background-position: center;
     }
 
-
-
+    #thanks {
+        padding: 60px 30%;
+    }
 }
 
 /* Large devices (laptops and desktops 992px and up) */
