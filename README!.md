@@ -63,7 +63,10 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   - After completing the sign-up process, the user is directed to a custom thank you page that encourages further engagement through social media.
   ![Find us page](assets/screenshots/thankyou.png)
 
-### Custom 404 page
+- Custom 404 page
+  - No site is complete without a custom 404 page. For users who accidentally navigate away or enter the URL incorrectly, a custom 404 page has been designed to redirect them back to the main site seamlessly.
+![Find us page](assets/screenshots/404.png)
+
 ## Features left to implement
 
 
