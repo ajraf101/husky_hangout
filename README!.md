@@ -87,31 +87,19 @@ Further testing was conducted by external users. A link to the website was distr
   - HTML: The official [W3C validator](https://validator.w3.org/) was used to check the HTML code, and no errors were detected.
   - CSS:The CSS code was validated using the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/), which also reported no errors.
   - There was consideration placing the CSS certificate at the bottom of the site, but decided against it as it deteracted from the minimalist style of the page.
-![CSS Certificate](assets/screenshots/cert.png)
 
-
-
-
-## Unfixed bugs
+    ![CSS Certificate](assets/screenshots/cert.png)
 
 ## Deployment
 
+This site was deployed using GitHub Pages. Although the code was written in Gitpod, which provides a preview window, it was important to deploy the site early to ensure that changes were being applied to the live site and not just the preview.
+
 ## Credits
+A wide variety of resources were utilized in creating this site. Notable ones include Stack Overflow, ChatGPT, tutors and students from the Code Institute on Slack, and W3Schools. All images and videos were sourced from Pexels. Below is a list of all the resources used during the site's development.
+  - Hero image color picker: https://imagecolorpicker.com/en
+  - Styling with font awesome: https://fontawesome.com/docs/web/style/styling
+  - Vertically align inside a flex box https://stackoverflow.com/questions/25311541/how-to-vertically-align-text-inside-a-flexbox
+  - Add google maps location: https://developers.google.com/maps
 
-## Other general project advise
-
-
-
-
-
-# DELETE BELOW THIS LINE BEFORE SUBMISSION
-
-I cropped the hero image as the original was in portrait. When it comes to mobile this would have worked fine but thinking of the browser width that would later come on a computer I decided to have the prepared. I chose this image for its colours and designed the rest of the site with these colours in mind as to keep a consistant theme throughout. 
-As it turns out testing of the first image proved that it would not fit neatly across all platforms. As a result a new image was chosen. Sadly this wasted some time as the site until this point had been working towards this colour scheme. Luckily though there were not to many changes to make and a more suitable image was discovered.
-
-
-**I should add in some sort of hero image effect like the one in boulder dash where the image slides into place**
-
-**Make sure to pass the pages through the validaters**
-
-**Insert screenshots of the finished project in the README**
+## Content
+- All content was generated for this site by the author.
