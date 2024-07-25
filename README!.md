@@ -95,6 +95,7 @@ A wide variety of resources were utilized in creating this site. Notable ones in
   - Styling with font awesome: https://fontawesome.com/docs/web/style/styling
   - Vertically align inside a flex box https://stackoverflow.com/questions/25311541/how-to-vertically-align-text-inside-a-flexbox
   - Add google maps location: https://developers.google.com/maps
+  - image converter: https://cloudconvert.com/jpg-to-webp
 
 ## Content
 - All content was generated for this site by the author.
