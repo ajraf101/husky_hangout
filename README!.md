@@ -67,10 +67,14 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   - No site is complete without a custom 404 page. For users who accidentally navigate away or enter the URL incorrectly, a custom 404 page has been designed to redirect them back to the main site seamlessly.
 ![Find us page](assets/screenshots/404.png)
 
-## Features left to implement
+- Features left to implement
+  - Online Store: Add an online store selling husky-themed merchandise and pet supplies. This would also support the community.
+  - Activity Booking System: Implement a system where users can book activities and events at the Husky Hangout Center directly through the site.
 
 
-- Testing
+
+## Testing
+
 Throughout the development of this website, regular testing was a priority. Each modification was promptly verified using the Gitpod external server, ensuring the website remained up-to-date and functional. Testing was conducted on a variety of devices, including a 13" MacBook Pro, an iPad Air 2, and an iPhone 12 pro, to guarantee compatibility. Several browsers, such as Chrome, Safari, and Firefox, were utilized during these testing phases.
 
 Interactive elements underwent rigorous testing across all devices to confirm their functionality on different platforms. For instance, the main logo was tested to ensure it reloaded the index.html page correctly, and each navigation bar button was checked to ensure it directed users to the appropriate sections of the site.
