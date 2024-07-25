@@ -12,18 +12,17 @@ Husky Hangout targets husky owners who seek effective ways to channel their pet'
 A key feature of this site is its simplicity. It promotes easy navigation and is direct and to the point, serving as an introduction to a great option for husky owners. The site is not overloaded with information, making it easy for users to quickly understand its purpose. Visitors can easily find details about the location of the center, costs, contact information, and an intuitive sign-up section.
 ## Existing features
 - Navigation bar. 
-  - The Husky Hangout website features a streamlined navigation bar at the top, designed for ease of use on all devices. This bar includes links to the Logo, Home page, Find Us, and Sign Up page, and is consistent across the site to facilitate straightforward navigation. 
+  - A streamlined navigation bar at the top, optimized for all devices, includes links to the Logo, Home, Find Us, and Sign Up pages. It ensures smooth and intuitive browsing. 
   - Users can effortlessly move between sections, ensuring a smooth and intuitive browsing experience.
-  - For the mobile version, the navigation bar features a dropdown menu. This design reduces clutter while maintaining ease of navigation.
+  - For mobile users, a dropdown menu reduces clutter while maintaining ease of use.
 
 ![Nav Bar](assets/screenshots/nav-bar.png)
 ![Nav Bar Mobile ](assets/screenshots/nav-bar-mobile.png)
 
 - __The Hero image__
 
-  - Below the navigation bar, the site displays a prominent image of a person embracing their husky. The text overlay reveals the site’s name and features a slogan.
-  - The selected image boasts an appealing color palette. These colors were extracted from the image to design the rest of the website, ensuring a cohesive visual experience from the initial view to the final sign-up stage.
-  - The image has been carefully selected to ensure it works well on a responsive site, particularly for mobile devices.
+  - Below the navigation bar, a prominent image of a person with their husky showcases the site’s name and slogan. The appealing color palette from the image was used throughout the site for visual cohesion.
+  - The image is responsive, ensuring a good experience on mobile devices.
 
 ![Hero Image](assets/screenshots/hero-image.png). 
 
@@ -31,8 +30,8 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
 
 
 - What we're about section
-  - With a minimalistic design blending imagery and text, this section promptly communicates the site's purpose and conveys the company's ethos to the user.
-  - The second half delves deeper into what’s available at the Husky Hangout Center, following the initial brief introduction. This additional information is relevant because it provides users with a clearer understanding of the center's offerings and atmosphere.
+  - A minimalistic design blends imagery and text to communicate the site's purpose and ethos effectively.
+  - This section includes detailed information about what’s available at the Husky Hangout Center, enhancing user understanding.
   - The images depict huskies happily interacting with each other, while another image shows owners enjoying the space alongside their pets, highlighting the center's welcoming and community-focused environment.
 
 ![what we're about first half](assets/screenshots/what-section-1.png). 
@@ -50,17 +49,15 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
   
 ![Footer](assets/screenshots/footer.png)
 - Find us page
-  - This page provides all the necessary information for users who want to engage further with the company, including the address, pricing, opening hours, and contact details.
-  - A notable feature of this page is the interactive Google Maps location. Users can open the map in a separate tab, thanks to a custom API setup specifically for this site.
+  - Provides essential information such as address, pricing, opening hours, and contact details, featuring an interactive Google Maps location with a custom API setup.
 
 ![Find us page](assets/screenshots/find-us-page.png)
 - Sign up page
-
   - Maintaining a minimal style, the sign-up page features a clear, easy-to-follow layout that is responsive to all screen sizes.
   - This page is intentionally placed last to guide the user through the site, ensuring they have read all about what the site offers before reaching the sign-up stage.
 ![Find us page](assets/screenshots/signup.png)
 - Custom thank you page
-  - After completing the sign-up process, the user is directed to a custom thank you page that encourages further engagement through social media.
+  - Directs users to a thank you page post-signup, encouraging further engagement through social media.
   ![Find us page](assets/screenshots/thankyou.png)
 
 - Custom 404 page
@@ -75,13 +72,11 @@ A key feature of this site is its simplicity. It promotes easy navigation and is
 
 ## Testing
 
-Throughout the development of this website, regular testing was a priority. Each modification was promptly verified using the Gitpod external server, ensuring the website remained up-to-date and functional. Testing was conducted on a variety of devices, including a 13" MacBook Pro, an iPad Air 2, and an iPhone 12 pro, to guarantee compatibility. Several browsers, such as Chrome, Safari, and Firefox, were utilized during these testing phases.
+Testing was a key priority throughout development. Each modification was verified using the Gitpod external server to ensure the site remained functional. Tests were conducted on various devices, including a 13" MacBook Pro, iPad Air 2, and iPhone 12 Pro, as well as browsers like Chrome, Safari, and Firefox.
 
-Interactive elements underwent rigorous testing across all devices to confirm their functionality on different platforms. For instance, the main logo was tested to ensure it reloaded the index.html page correctly, and each navigation bar button was checked to ensure it directed users to the appropriate sections of the site.
+Interactive elements were rigorously tested across devices. For example, the main logo’s reload functionality and the navigation bar’s accuracy were checked. The video component and sign-up form were tested to confirm proper operation, and social media icons were verified to open in new tabs.
 
-The video component was also thoroughly tested on each device, with all controls verified for proper operation. Additionally, the sign-up form was tested to ensure the link opened in a new tab, as intended. The social media icons followed a similar testing protocol, confirming that each one opened in a new tab.
-
-Further testing was conducted by external users. A link to the website was distributed to a list of users who tested it on their own devices. Feedback from these users indicated that the website functioned without any issues.
+External user testing also confirmed the website’s functionality across different devices.
 
 - Validator Testing
   - HTML: The official [W3C validator](https://validator.w3.org/) was used to check the HTML code, and no errors were detected.
